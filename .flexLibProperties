@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.hendrix.facebook.core.FqlCommand"/>
+    <classEntry path="com.hendrix.facebook.auth.FacebookAuthMobile"/>
+    <classEntry path="com.hendrix.facebook.commands.FbPhotoPoster"/>
+    <classEntry path="com.hendrix.facebook.commands.FbStatistics"/>
+    <classEntry path="com.hendrix.facebook.aggregator.CommentsAggregator"/>
+    <classEntry path="com.hendrix.facebook.commands.FbLike"/>
+    <classEntry path="com.hendrix.facebook.aggregator.core.AggregatorStatus"/>
+    <classEntry path="com.hendrix.facebook.aggregator.core.interfaces.IId"/>
+    <classEntry path="com.hendrix.facebook.commands.FbUserInfo"/>
+    <classEntry path="com.hendrix.facebook.aggregator.PageAggregatorFilteredFriends"/>
+    <classEntry path="com.hendrix.facebook.aggregator.PostsSetAggregator"/>
+    <classEntry path="com.hendrix.facebook.core.GraphRequest"/>
+    <classEntry path="com.hendrix.facebook.aggregator.core.AggregatorBase"/>
+    <classEntry path="com.hendrix.facebook.commands.FbPostWall"/>
+    <classEntry path="com.hendrix.facebook.aggregator.PageAggregatorFiltered"/>
+    <classEntry path="com.hendrix.facebook.commands.FbComment"/>
+    <classEntry path="com.hendrix.facebook.co.uk.mikestead.net.URLFileVariable"/>
+    <classEntry path="com.hendrix.facebook.aggregator.core.interfaces.IIdFeed"/>
+    <classEntry path="com.hendrix.facebook.auth.FacebookAuthBase"/>
+    <classEntry path="com.hendrix.facebook.aggregator.PageAggregator"/>
+    <classEntry path="com.hendrix.facebook.aggregator.PageAggregatorMostLiked"/>
+    <classEntry path="com.hendrix.facebook.aggregator.core.types.IdUrlLoader"/>
+    <classEntry path="com.hendrix.facebook.co.uk.mikestead.net.URLRequestBuilder"/>
+    <classEntry path="com.hendrix.facebook.auth.FacebookStatus"/>
+    <classEntry path="com.hendrix.facebook.auth.IFacebookAuth"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
